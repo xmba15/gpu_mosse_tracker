@@ -1,0 +1,5 @@
+# typing
+typing-extensions
+
+opencv-python
+tqdm
